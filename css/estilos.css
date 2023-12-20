@@ -1,5 +1,5 @@
 /* Importando fuente desde Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cantarell&display=swap');
 
 /* Importando archivos para cada parte del sitio */
 @import "navegacion.css";
@@ -7,11 +7,11 @@
 * {
     margin: 0;
     padding: 0;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Cantarell', sans-serif;
     box-sizing: border-box;
 }
 
 body {
     height: 100vh;
-    background-color: #212529;
+    background-color: #FFFFFF;
 }

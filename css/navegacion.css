@@ -7,7 +7,7 @@ nav {
 }
 
 nav h2 {
-    color: #FFB742;
+    color: #0B82E6;
     font-weight: 600;
 }
 
@@ -21,14 +21,14 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: #FFF;
+    color: #0B82E6;
     font-size: 16px;
     margin-right: 25px;
     transition: color 0.3s ease;
 }
 
 nav ul li:hover a {
-    color: #FFB742;
+    color: #86EAAA;
 }
 
 nav ul li:last-child a {
@@ -38,13 +38,13 @@ nav ul li:last-child a {
 #contratame {
     border: none;
     padding: 6px 30px;
-    background-color: #FFB742;
+    background-color: #0B82E6;
+    color: #FFFFFF;
     cursor: pointer;
-    border-radius: 6px;
     font-size: 16px;
     transition: background-color 0.3s ease;
 }
 
 #contratame:hover {
-    background-color: #FB8C00;
+    background-color: #86EAAA;
 }
