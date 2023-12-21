@@ -3,6 +3,7 @@
 
 /* Importando archivos para cada parte del sitio */
 @import "navegacion.css";
+@import "presentacion.css";
 
 * {
     margin: 0;

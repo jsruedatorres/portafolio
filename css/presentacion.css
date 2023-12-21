@@ -1,0 +1,31 @@
+#presentacion {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 650px;
+}
+
+#presentacion h4 {
+    font-size: 28px;
+    color: #0B82E6;
+}
+
+#presentacion h4 span {
+    text-decoration: underline;
+}
+
+#presentacion #titulo {
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+#presentacion #descripcion {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#presentacion img {
+    width: 300px;
+    margin-top: 20px;
+}
