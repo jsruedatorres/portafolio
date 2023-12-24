@@ -1,0 +1,46 @@
+#habilidades {
+    display: flex;
+    justify-content: space-around;
+    padding: 0 50px;
+}
+
+#habilidades #izquierda {
+    width: 680px;
+}
+
+#habilidades #izquierda .informacion h3 {
+    color: #FFF;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+#habilidades #izquierda .informacion p {
+    font-size: 14px;
+}
+
+#habilidades #izquierda button {
+    margin-top: 30px;
+}
+
+#habilidades #derecha {
+    width: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 12px;
+}
+
+#habilidades #derecha .item {
+    display: flex;
+    background-color: rgba(255, 255, 255, 0.08);;
+    width: 100px;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+}
+
+#habilidades #derecha .item i {
+    font-size: 60px;
+    color: #D5B263;
+}
