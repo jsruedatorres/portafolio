@@ -4,6 +4,7 @@
 /* Importando archivos para cada parte del sitio */
 @import "navegacion.css";
 @import "presentacion.css";
+@import "sobre-mi.css";
 
 * {
     margin: 0;
@@ -14,5 +15,28 @@
 
 body {
     height: 100vh;
-    background-color: #FFFFFF;
+    background-color: #293040;
+    color: #CCC;
+}
+
+.btn-contratame {
+    border: none;
+    padding: 6px 30px;
+    background-color: #D5B263;
+    color: #293040;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+.btn-contratame:hover {
+    background-color: #C9AD8B;
+}
+
+.separador {
+    margin: 50px 50px 30px;
+    padding: 10px 20px;
+    background-color: rgba(255, 255, 255, 0.08);
+    display: inline-block;
+    color: #D5B263;
 }

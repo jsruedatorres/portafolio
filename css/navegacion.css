@@ -20,30 +20,16 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: #0B82E6;
+    color: #D5B263;
     font-size: 16px;
     margin-right: 25px;
     transition: color 0.3s ease;
 }
 
 nav ul li:hover a {
-    color: #86EAAA;
+    color: #C9AD8B;
 }
 
 nav ul li:last-child a {
     margin: 0;
-}
-
-#contratame {
-    border: none;
-    padding: 6px 30px;
-    background-color: #0B82E6;
-    color: #FFFFFF;
-    cursor: pointer;
-    font-size: 16px;
-    transition: background-color 0.3s ease;
-}
-
-#contratame:hover {
-    background-color: #86EAAA;
 }

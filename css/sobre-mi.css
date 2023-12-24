@@ -1,0 +1,26 @@
+#sobre-mi {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 80px;
+    padding: 0 50px;
+}
+
+#sobre-mi img {
+    width: 280px;
+}
+
+#sobre-mi #informacion h3 {
+    color: #FFF;
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+#sobre-mi #informacion p {
+    color: #CCC;
+    font-size: 14px;
+}
+
+#sobre-mi #informacion button {
+    margin-top: 30px;
+}
