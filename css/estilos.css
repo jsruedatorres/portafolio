@@ -6,6 +6,7 @@
 @import "presentacion.css";
 @import "sobre-mi.css";
 @import "habilidades.css";
+@import "footer.css";
 
 * {
     margin: 0;
